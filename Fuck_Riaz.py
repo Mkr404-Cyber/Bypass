@@ -18,5 +18,5 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    import fuck
-    fuck.menu()
+    import Riaz
+    Riaz.menu()
